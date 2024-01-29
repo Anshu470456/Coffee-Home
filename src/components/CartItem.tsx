@@ -15,7 +15,7 @@ import {
   FONTSIZE,
   SPACING,
 } from '../theme/theme';
-import CustumIcon from './CustumIcon';
+import CustomIcon from './CustomIcon';
 
 interface CartItemProps {
   id: string;
@@ -90,7 +90,7 @@ const CartItem: React.FC<CartItemProps> = ({
                   onPress={() => {
                     decrementCartItemQuantityHandler(id, data.size);
                   }}>
-                  <CustumIcon
+                  <CustomIcon
                     name="minus"
                     color={COLORS.primaryWhiteHex}
                     size={FONTSIZE.size_10}
@@ -106,7 +106,7 @@ const CartItem: React.FC<CartItemProps> = ({
                   onPress={() => {
                     incrementCartItemQuantityHandler(id, data.size);
                   }}>
-                  <CustumIcon
+                  <CustomIcon
                     name="add"
                     color={COLORS.primaryWhiteHex}
                     size={FONTSIZE.size_10}
@@ -157,7 +157,7 @@ const CartItem: React.FC<CartItemProps> = ({
                 onPress={() => {
                   decrementCartItemQuantityHandler(id, prices[0].size);
                 }}>
-                <CustumIcon
+                <CustomIcon
                   name="minus"
                   color={COLORS.primaryWhiteHex}
                   size={FONTSIZE.size_10}
@@ -173,7 +173,7 @@ const CartItem: React.FC<CartItemProps> = ({
                 onPress={() => {
                   incrementCartItemQuantityHandler(id, prices[0].size);
                 }}>
-                <CustumIcon
+                <CustomIcon
                   name="add"
                   color={COLORS.primaryWhiteHex}
                   size={FONTSIZE.size_10}

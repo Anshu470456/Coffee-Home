@@ -15,7 +15,7 @@ import {
   FONTSIZE,
   SPACING,
 } from '../theme/theme';
-import CustumIcon from './CustumIcon';
+import CustomIcon from './CustomIcon';
 
 interface ImageBackgroundInfoProps {
   EnableBackHandler: boolean;
@@ -106,7 +106,7 @@ const ImageBackgroundInfo: React.FC<ImageBackgroundInfoProps> = ({
               </View>
               <View style={styles.ItemPropertiesContainer}>
                 <View style={styles.ProperFirst}>
-                  <CustumIcon
+                  <CustomIcon
                     name={type == 'Bean' ? 'bean' : 'beans'}
                     size={type == 'Bean' ? FONTSIZE.size_18 : FONTSIZE.size_24}
                     color={COLORS.primaryOrangeHex}
@@ -125,7 +125,7 @@ const ImageBackgroundInfo: React.FC<ImageBackgroundInfoProps> = ({
                   </Text>
                 </View>
                 <View style={styles.ProperFirst}>
-                  <CustumIcon
+                  <CustomIcon
                     name={type == 'Bean' ? 'location' : 'drop'}
                     size={FONTSIZE.size_16}
                     color={COLORS.primaryOrangeHex}
@@ -136,7 +136,7 @@ const ImageBackgroundInfo: React.FC<ImageBackgroundInfoProps> = ({
             </View>
             <View style={styles.InfoContainerRow}>
               <View style={styles.RatingContainer}>
-                <CustumIcon
+                <CustomIcon
                   name={'star'}
                   color={COLORS.primaryOrangeHex}
                   size={FONTSIZE.size_20}
