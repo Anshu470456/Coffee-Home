@@ -45,7 +45,6 @@ The Coffee Shop App is a React Native application designed to provide users with
 ## Technologies Used
 
 - React Native
-- Expo CLI
 
 ## Contributing
 
