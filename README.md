@@ -17,22 +17,16 @@ The Coffee Shop App is a React Native application designed to provide users with
 
 - Tab Bars
 
-<iframe  width="560" height="315" src="https://youtube.com/shorts/7VyVRmequPI?feature=shared" frameborder="0" allow="autoplay; encrypted-media" ></iframe>
+https://github.com/Anshu470456/Coffee-Home/assets/124338788/8181b9e6-4f77-424d-83d5-1f74fe040bfa
 
 - App use Case
 
-
-
 https://github.com/Anshu470456/Coffee-Home/assets/124338788/cc0ba63f-042f-430f-8add-1e432f23a772
-
-
-
 
 - Adding item to favourite ❤️
 
-<video width ="230" height ="500" controls autoplay loop>
-<source src="src/video/v3.mp4" type="video/mp4">
-</video>
+https://github.com/Anshu470456/Coffee-Home/assets/124338788/e9ab0532-44f8-4e35-a222-9775b1ab877e
+
 
 ## Features
 
