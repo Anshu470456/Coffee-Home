@@ -21,9 +21,12 @@ The Coffee Shop App is a React Native application designed to provide users with
 
 - App use Case
 
-<video width ="230" height ="500" controls autoplay loop>
-<source src="src/video/v2.mp4" type="video/mp4">
-</video>
+
+
+https://github.com/Anshu470456/Coffee-Home/assets/124338788/cc0ba63f-042f-430f-8add-1e432f23a772
+
+
+
 
 - Adding item to favourite ❤️
 
