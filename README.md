@@ -16,9 +16,22 @@ Welcome to the Coffee Shop App built with React Native! Satisfy your coffee crav
 The Coffee Shop App is a React Native application designed to provide users with a convenient and enjoyable way to explore and purchase different types of coffee and coffee beans. With features like favoriting, various purchasing modes, and an easy-to-use cart, coffee enthusiasts can indulge in their love for quality coffee.
 
 - Tab Bars
-  [![Watch the video](src/video/v1.mp4)](src/video/v1.mp4)
+
+<video width ="230" height ="500" controls autoplay loop>
+<source src="src/video/v1.mp4" type="video/mp4">
+</video>
+
 - App use Case
+
+<video width ="230" height ="500" controls autoplay loop>
+<source src="src/video/v2.mp4" type="video/mp4">
+</video>
+
 - Adding item to favourite ❤️
+
+<video width ="230" height ="500" controls autoplay loop>
+<source src="src/video/v3.mp4" type="video/mp4">
+</video>
 
 ## Features
 
