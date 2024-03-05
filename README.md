@@ -17,9 +17,7 @@ The Coffee Shop App is a React Native application designed to provide users with
 
 - Tab Bars
 
-<video width ="230" height ="500" controls autoplay loop>
-<source src="src/video/v1.mp4" type="video/mp4">
-</video>
+<iframe  width="560" height="315" src="https://youtube.com/shorts/7VyVRmequPI?feature=shared" frameborder="0" allow="autoplay; encrypted-media" ></iframe>
 
 - App use Case
 
