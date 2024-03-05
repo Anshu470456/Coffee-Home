@@ -15,6 +15,11 @@ Welcome to the Coffee Shop App built with React Native! Satisfy your coffee crav
 
 The Coffee Shop App is a React Native application designed to provide users with a convenient and enjoyable way to explore and purchase different types of coffee and coffee beans. With features like favoriting, various purchasing modes, and an easy-to-use cart, coffee enthusiasts can indulge in their love for quality coffee.
 
+- Tab Bars
+  [![Watch the video](src/video/v1.mp4)](src/video/v1.mp4)
+- App use Case
+- Adding item to favourite ❤️
+
 ## Features
 
 - **Extensive Coffee Selection:** Browse and choose from a diverse range of coffee options.
@@ -27,13 +32,18 @@ The Coffee Shop App is a React Native application designed to provide users with
 1. Clone the repository.
    ```bash
    git clone https://github.com/your-username/password-generator-react-native.git
+   ```
 2. Install dependencies using your preferred package manager.
    ```bash
    npm install
+   ```
 3. Run the app:
+
    ```bash
    npm start
-     
+
+   ```
+
 ## Usage
 
 1. Run the app: npm start
